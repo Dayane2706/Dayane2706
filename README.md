@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá 🫡, meu nome é Dayane!<br><br>🖥️ 5º Semestre Engenharia de Software na UNICV;<br>👉Buscando oportunidade;<br>🚀Em constante aprendizado;<br>💹Meta: Ser melhor do que ontem.<br>
+Olá 🫡, meu nome é Dayane!<br><br>🖥️ 5º Semestre Engenharia de Software na UNICV;<br>Estagiária em Desenvolvimento FullStack;<br>🚀Em constante Aprendizado;<br>💹Meta: Ser melhor do que ontem.<br>
 
 
 ## 🌐 Socials:
