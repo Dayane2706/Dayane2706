@@ -1,7 +1,19 @@
-# 💫 Sobre Mim:
-<table>
-  <tr>
-    <td>
+
+
+###
+<img align="right" height="700" src="https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif"  />
+
+###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&random=false&width=340&lines=Ol%C3%A1+%F0%9F%91%8B;Seja+bem+vindo(a)!+%F0%9F%AB%A1)](https://git.io/typing-svg)
+
+###
+
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" />  Sobre mim :</h3>
+
+###
+
+<td>
       <p>Olá, meu nome é Dayane!<br><br>
       🎓 Formada em Analise e Desenvolvimento de Sistemas<br>
       💻 6º Semestre Engenharia de Software no Centro Universitário Cidade Verde;<br>
@@ -9,12 +21,10 @@
       🚀 Em Constante Aprendizado;<br>
       💹 Meta: Ser melhor do que Ontem.<br></p>
     </td>
-    <td>
-      <img src="https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif" alt="Programmer GIF"/>
-    </td>
-  </tr>
-</table>
 
+###
+
+<br clear="both">
 
 
 ## 🌐 Redes Sociais:
