@@ -21,7 +21,7 @@ Olá, meu nome é Dayane!<br><br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
-![Coding GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+![Coding GIF](https://media1.tenor.com/m/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif)
 
 # 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Dayane2706&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
