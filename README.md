@@ -5,7 +5,8 @@ Olá, meu nome é Dayane!<br><br>
 🚀 Em Constante Aprendizado;<br>
 💹 Meta: Ser melhor do que Ontem.<br>
 
-![Programmer GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Programmer GIF](https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif)
+
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayane-rodrigues-ab49b41b4) 
