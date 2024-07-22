@@ -1,7 +1,7 @@
 
 
 ###
-<img align="right" height="450" src="https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif"  />
+<img align="right" height="470" src="https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif"  />
 
 ###
 
