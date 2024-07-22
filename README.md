@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Dayane!<br><br>💻5º Semestre Engenharia de Software na UNICV;<br>💼Estagiária em Desenvolvimento FullStack na IngaCode;<br>🚀Em Constante Aprendizado;<br>💹Meta: Ser melhor do que Ontem.<br>
+Olá, meu nome é Dayane!<br><br>💻6º Semestre Engenharia de Software na UNICV;<br>💼Estagiária em Desenvolvimento FullStack na IngaCode;<br>🚀Em Constante Aprendizado;<br>💹Meta: Ser melhor do que Ontem.<br>
 
 
 ## 🌐 Socials:
