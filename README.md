@@ -1,7 +1,7 @@
 
 
 ###
-<img align="right" height="470" src="https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif"  />
+<img align="right" height="600" src="https://media1.tenor.com/m/7bBINkQ326MAAAAd/animation-art.gif"  />
 
 ###
 
@@ -16,7 +16,7 @@
 <td>
       <p>Olá, meu nome é Dayane!<br><br>
       🎓 Formada em Analise e Desenvolvimento de Sistemas<br>
-      💻 6º Semestre Engenharia de Software no Centro Universitário Cidade Verde;<br>
+      💻 6º Semestre Engenharia de Software - UNICV;<br>
       💼 Desenvolvedora FullStack - IngaCode;<br>
       🚀 Em Constante Aprendizado;<br>
       💹 Meta: Ser melhor do que Ontem.<br></p>
