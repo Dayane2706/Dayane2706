@@ -16,7 +16,7 @@
 <td>
       <p>Olá, meu nome é Dayane!<br><br>
       🎓 Formada em Analise e Desenvolvimento de Sistemas<br>
-      💻 6º Semestre Engenharia de Software - UNICV<br>
+      💻 7º Semestre Engenharia de Software - UNICV<br>
       💼 Desenvolvedora FullStack - IngaCode<br>
       🚀 Em Constante Aprendizado<br>
       💹 Meta: Ser melhor do que Ontem.<br></p>
